@@ -8,7 +8,7 @@
 
 ## Технологии
 - Swift
-- UIKit (или SwiftUI, если используешь)
+- SwiftUI
 - Xcode
 
 ## Как запустить
